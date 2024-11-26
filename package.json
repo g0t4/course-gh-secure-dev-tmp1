@@ -5,5 +5,8 @@
   "description": "my internal web application",
   "dependencies": {
     "@hapi/hapi": "^21.3.12"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.0"
   }
 }
